@@ -205,7 +205,7 @@
     "longitude": -152.75,
     "elevation": 3108,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -325,7 +325,7 @@
     "longitude": 147.35,
     "elevation": 270,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -340,7 +340,7 @@
     "longitude": 15.004,
     "elevation": 3350,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 40
   },
@@ -445,7 +445,7 @@
     "longitude": 44.08,
     "elevation": 3100,
     "type": "Volcanic field",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -490,7 +490,7 @@
     "longitude": -153.42,
     "elevation": 1252,
     "type": "Lava dome",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -505,7 +505,7 @@
     "longitude": 105.423,
     "elevation": 813,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "W",
     "deaths": ""
   },
@@ -535,7 +535,7 @@
     "longitude": 44.08,
     "elevation": 3100,
     "type": "Volcanic field",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -565,7 +565,7 @@
     "longitude": -89.286,
     "elevation": 1893,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -730,7 +730,7 @@
     "longitude": -19.05,
     "elevation": 1512,
     "type": "Subglacial volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -760,7 +760,7 @@
     "longitude": 25.396,
     "elevation": 329,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -820,7 +820,7 @@
     "longitude": 15.004,
     "elevation": 3350,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "S,W",
     "deaths": ""
   },
@@ -835,7 +835,7 @@
     "longitude": 15.004,
     "elevation": 3350,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -880,7 +880,7 @@
     "longitude": 39.93,
     "elevation": 2007,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -940,7 +940,7 @@
     "longitude": 13.897,
     "elevation": 789,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -1390,7 +1390,7 @@
     "longitude": -85.968,
     "elevation": 1344,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "A",
     "deaths": 400
   },
@@ -1660,7 +1660,7 @@
     "longitude": 98.47,
     "elevation": 2865,
     "type": "Pyroclastic cone",
-    "vei": "",
+    "vei": 1,
     "agent": "E",
     "deaths": ""
   },
@@ -1750,7 +1750,7 @@
     "longitude": 41.63,
     "elevation": 1068,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "S",
     "deaths": 50
   },
@@ -1975,7 +1975,7 @@
     "longitude": 128.25,
     "elevation": 217,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "A",
     "deaths": 1
   },
@@ -2095,7 +2095,7 @@
     "longitude": 42.75,
     "elevation": 624,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -2140,7 +2140,7 @@
     "longitude": 14.426,
     "elevation": 1281,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -2185,7 +2185,7 @@
     "longitude": 15.004,
     "elevation": 3350,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -2290,7 +2290,7 @@
     "longitude": 25.396,
     "elevation": 329,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -2350,7 +2350,7 @@
     "longitude": 14.426,
     "elevation": 1281,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -2605,7 +2605,7 @@
     "longitude": -128.9,
     "elevation": 609,
     "type": "Pyroclastic cone",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": ""
   },
@@ -2995,7 +2995,7 @@
     "longitude": 130.67,
     "elevation": 1117,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -3055,7 +3055,7 @@
     "longitude": -71.85,
     "elevation": 5967,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -3190,7 +3190,7 @@
     "longitude": 107.83,
     "elevation": 2249,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "M",
     "deaths": ""
   },
@@ -3475,7 +3475,7 @@
     "longitude": 145.4,
     "elevation": 857,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -3595,7 +3595,7 @@
     "longitude": 154.98,
     "elevation": 2715,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "P",
     "deaths": ""
   },
@@ -3760,7 +3760,7 @@
     "longitude": 129.871,
     "elevation": 640,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -3775,7 +3775,7 @@
     "longitude": 96.329,
     "elevation": 2801,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -3925,7 +3925,7 @@
     "longitude": -61.67,
     "elevation": 1467,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -4015,7 +4015,7 @@
     "longitude": 176,
     "elevation": 760,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 63
   },
@@ -4225,7 +4225,7 @@
     "longitude": -163.97,
     "elevation": 2857,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -4255,7 +4255,7 @@
     "longitude": 147.875,
     "elevation": 1548,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -4285,7 +4285,7 @@
     "longitude": 137.6,
     "elevation": 2621,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": ""
   },
@@ -4300,7 +4300,7 @@
     "longitude": 137.6,
     "elevation": 2621,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": ""
   },
@@ -4345,7 +4345,7 @@
     "longitude": -17.33,
     "elevation": 1725,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 1
   },
@@ -4405,7 +4405,7 @@
     "longitude": 169.425,
     "elevation": 361,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -4495,7 +4495,7 @@
     "longitude": 15.004,
     "elevation": 3350,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -4750,7 +4750,7 @@
     "longitude": 14.426,
     "elevation": 1281,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G,T",
     "deaths": 9
   },
@@ -4825,7 +4825,7 @@
     "longitude": 123.685,
     "elevation": 2462,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 1500
   },
@@ -4900,7 +4900,7 @@
     "longitude": 169.425,
     "elevation": 361,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -4990,7 +4990,7 @@
     "longitude": 105.423,
     "elevation": 813,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -5020,7 +5020,7 @@
     "longitude": 105.423,
     "elevation": 813,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -5470,7 +5470,7 @@
     "longitude": 39.13,
     "elevation": 2349,
     "type": "Pumice cone",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -5500,7 +5500,7 @@
     "longitude": 168.37,
     "elevation": 833,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -5515,7 +5515,7 @@
     "longitude": -61.17,
     "elevation": 1397,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 23
   },
@@ -5560,7 +5560,7 @@
     "longitude": -61.17,
     "elevation": 1397,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -5650,7 +5650,7 @@
     "longitude": 43.38,
     "elevation": 2361,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 17
   },
@@ -5770,7 +5770,7 @@
     "longitude": -172.525,
     "elevation": 1858,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -5815,7 +5815,7 @@
     "longitude": 176,
     "elevation": 760,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 1
   },
@@ -5890,7 +5890,7 @@
     "longitude": -61,
     "elevation": 140,
     "type": "Mud volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -6055,7 +6055,7 @@
     "longitude": 177.18,
     "elevation": 321,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "A",
     "deaths": 11
   },
@@ -6070,7 +6070,7 @@
     "longitude": 167.83,
     "elevation": 1496,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "L",
     "deaths": 100
   },
@@ -6220,7 +6220,7 @@
     "longitude": 125.491,
     "elevation": -5,
     "type": "Submarine volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -6265,7 +6265,7 @@
     "longitude": 139.97,
     "elevation": 1917,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 2
   },
@@ -6325,7 +6325,7 @@
     "longitude": 139.97,
     "elevation": 1917,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 1
   },
@@ -6355,7 +6355,7 @@
     "longitude": 107.6,
     "elevation": 2084,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 3
   },
@@ -6415,7 +6415,7 @@
     "longitude": 121.708,
     "elevation": 875,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -6475,7 +6475,7 @@
     "longitude": 105.423,
     "elevation": 813,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -6685,7 +6685,7 @@
     "longitude": 110.442,
     "elevation": 2947,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": ""
   },
@@ -6730,7 +6730,7 @@
     "longitude": 139.02,
     "elevation": 1438,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 1
   },
@@ -6775,7 +6775,7 @@
     "longitude": -121.694,
     "elevation": 3426,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 1
   },
@@ -6850,7 +6850,7 @@
     "longitude": 140.08,
     "elevation": 1819,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 2
   },
@@ -7195,7 +7195,7 @@
     "longitude": 139.18,
     "elevation": 1828,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 699
   },
@@ -7345,7 +7345,7 @@
     "longitude": -87.57,
     "elevation": 872,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -7375,7 +7375,7 @@
     "longitude": 139.02,
     "elevation": 1438,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 2
   },
@@ -7420,7 +7420,7 @@
     "longitude": 139.02,
     "elevation": 1438,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 1
   },
@@ -7600,7 +7600,7 @@
     "longitude": 139.02,
     "elevation": 1438,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "A",
     "deaths": 10
   },
@@ -7630,7 +7630,7 @@
     "longitude": 175.57,
     "elevation": 2797,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 151
   },
@@ -7645,7 +7645,7 @@
     "longitude": 15.213,
     "elevation": 926,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -7660,7 +7660,7 @@
     "longitude": 137.6,
     "elevation": 2621,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 1
   },
@@ -7690,7 +7690,7 @@
     "longitude": 124.673,
     "elevation": 1332,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 2
   },
@@ -7765,7 +7765,7 @@
     "longitude": 130.3,
     "elevation": 1500,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 13
   },
@@ -7825,7 +7825,7 @@
     "longitude": 142.88,
     "elevation": 2290,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 2
   },
@@ -7885,7 +7885,7 @@
     "longitude": 137.6,
     "elevation": 2621,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 1
   },
@@ -7915,7 +7915,7 @@
     "longitude": 142.88,
     "elevation": 2290,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 2
   },
@@ -7960,7 +7960,7 @@
     "longitude": 110.442,
     "elevation": 2947,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 2
   },
@@ -8350,7 +8350,7 @@
     "longitude": 140.73,
     "elevation": 462,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 1
   },
@@ -8365,7 +8365,7 @@
     "longitude": 14.139,
     "elevation": 458,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "S",
     "deaths": 3
   },
@@ -8470,7 +8470,7 @@
     "longitude": 138.55,
     "elevation": 2176,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 6
   },
@@ -8500,7 +8500,7 @@
     "longitude": 139.02,
     "elevation": 1438,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 2
   },
@@ -8560,7 +8560,7 @@
     "longitude": -72.97,
     "elevation": 1905,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "M",
     "deaths": 2
   },
@@ -8740,7 +8740,7 @@
     "longitude": 138.55,
     "elevation": 2176,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 3
   },
@@ -8950,7 +8950,7 @@
     "longitude": 107.6,
     "elevation": 2084,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "I",
     "deaths": 3
   },
@@ -9085,7 +9085,7 @@
     "longitude": -121.694,
     "elevation": 3426,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 1
   },
@@ -9160,7 +9160,7 @@
     "longitude": 123.685,
     "elevation": 2462,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 200
   },
@@ -9190,7 +9190,7 @@
     "longitude": 158.3,
     "elevation": 2173,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "A",
     "deaths": ""
   },
@@ -9325,7 +9325,7 @@
     "longitude": 10.5,
     "elevation": 3011,
     "type": "Maar",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 37
   },
@@ -9355,7 +9355,7 @@
     "longitude": 137.48,
     "elevation": 3063,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "A",
     "deaths": 29
   },
@@ -9430,7 +9430,7 @@
     "longitude": 140.77,
     "elevation": 1366,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 1
   },
@@ -9535,7 +9535,7 @@
     "longitude": 124.148,
     "elevation": 862,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -9610,7 +9610,7 @@
     "longitude": 140.77,
     "elevation": 1366,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "I",
     "deaths": 3
   },
@@ -9625,7 +9625,7 @@
     "longitude": 131.1,
     "elevation": 1592,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 1
   },
@@ -9640,7 +9640,7 @@
     "longitude": 130.87,
     "elevation": 1700,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 2
   },
@@ -9730,7 +9730,7 @@
     "longitude": 152.203,
     "elevation": 688,
     "type": "Pyroclastic shield",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 6
   },
@@ -9775,7 +9775,7 @@
     "longitude": 29.25,
     "elevation": 3470,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "S",
     "deaths": 1
   },
@@ -9790,7 +9790,7 @@
     "longitude": 112.308,
     "elevation": 1731,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 4
   },
@@ -9835,7 +9835,7 @@
     "longitude": 158.195,
     "elevation": 2322,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "I",
     "deaths": 1
   },
@@ -9925,7 +9925,7 @@
     "longitude": 109.92,
     "elevation": 2565,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 1
   },
@@ -10045,7 +10045,7 @@
     "longitude": 128.675,
     "elevation": 868,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 1
   },
@@ -10090,7 +10090,7 @@
     "longitude": -155.292,
     "elevation": 1222,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "A",
     "deaths": 1
   },
@@ -10150,7 +10150,7 @@
     "longitude": 120.35,
     "elevation": 1486,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 14
   },
@@ -10210,7 +10210,7 @@
     "longitude": -76.05,
     "elevation": 5365,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": ""
   },
@@ -10330,7 +10330,7 @@
     "longitude": 121.83,
     "elevation": 1640,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 1
   },
@@ -10345,7 +10345,7 @@
     "longitude": 124.892,
     "elevation": 1824,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 60
   },
@@ -10405,7 +10405,7 @@
     "longitude": -85.515,
     "elevation": 1394,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 6
   },
@@ -10495,7 +10495,7 @@
     "longitude": 140.88,
     "elevation": 1585,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 3
   },
@@ -10540,7 +10540,7 @@
     "longitude": 140.28,
     "elevation": 1718,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 4
   },
@@ -10555,7 +10555,7 @@
     "longitude": 131.1,
     "elevation": 1592,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 2
   },
@@ -10570,7 +10570,7 @@
     "longitude": -62.18,
     "elevation": 915,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -10585,7 +10585,7 @@
     "longitude": -155.292,
     "elevation": 1222,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "L",
     "deaths": 1
   },
@@ -10600,7 +10600,7 @@
     "longitude": 112.308,
     "elevation": 1731,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 10
   },
@@ -10615,7 +10615,7 @@
     "longitude": -87.004,
     "elevation": 1745,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "m",
     "deaths": 1620
   },
@@ -10750,7 +10750,7 @@
     "longitude": -155.292,
     "elevation": 1222,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 2
   },
@@ -10900,7 +10900,7 @@
     "longitude": 15.213,
     "elevation": 926,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11020,7 +11020,7 @@
     "longitude": 43.38,
     "elevation": 2361,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11035,7 +11035,7 @@
     "longitude": -177.92,
     "elevation": 516,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 1
   },
@@ -11155,7 +11155,7 @@
     "longitude": -76.05,
     "elevation": 5365,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11170,7 +11170,7 @@
     "longitude": 106.73,
     "elevation": 2211,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 6
   },
@@ -11185,7 +11185,7 @@
     "longitude": 41.742,
     "elevation": 244,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 7
   },
@@ -11200,7 +11200,7 @@
     "longitude": -72.646,
     "elevation": 962,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 1
   },
@@ -11245,7 +11245,7 @@
     "longitude": -76.05,
     "elevation": 5365,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 10
   },
@@ -11260,7 +11260,7 @@
     "longitude": -152.75,
     "elevation": 3108,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11275,7 +11275,7 @@
     "longitude": -155.292,
     "elevation": 1222,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11335,7 +11335,7 @@
     "longitude": 145.78,
     "elevation": 538,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11365,7 +11365,7 @@
     "longitude": 98.392,
     "elevation": 2460,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 2
   },
@@ -11380,7 +11380,7 @@
     "longitude": 110.442,
     "elevation": 2947,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 367
   },
@@ -11410,7 +11410,7 @@
     "longitude": 112.95,
     "elevation": 2329,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11425,7 +11425,7 @@
     "longitude": 110.442,
     "elevation": 2947,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "M",
     "deaths": 1
   },
@@ -11440,7 +11440,7 @@
     "longitude": 130.87,
     "elevation": 1700,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11470,7 +11470,7 @@
     "longitude": 125.48,
     "elevation": 1784,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11530,7 +11530,7 @@
     "longitude": -19.05,
     "elevation": 1512,
     "type": "Subglacial volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11545,7 +11545,7 @@
     "longitude": 124.792,
     "elevation": 1580,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 1
   },
@@ -11575,7 +11575,7 @@
     "longitude": -155.292,
     "elevation": 1222,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11590,7 +11590,7 @@
     "longitude": -155.292,
     "elevation": 1222,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "L",
     "deaths": ""
   },
@@ -11605,7 +11605,7 @@
     "longitude": 160.33,
     "elevation": 3682,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11620,7 +11620,7 @@
     "longitude": 110.442,
     "elevation": 2947,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "M",
     "deaths": 1
   },
@@ -11635,7 +11635,7 @@
     "longitude": 121.708,
     "elevation": 875,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11650,7 +11650,7 @@
     "longitude": 123.685,
     "elevation": 2462,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 5
   },
@@ -11680,7 +11680,7 @@
     "longitude": -70.903,
     "elevation": 5672,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11695,7 +11695,7 @@
     "longitude": 130.67,
     "elevation": 1117,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11725,7 +11725,7 @@
     "longitude": 176.5,
     "elevation": 1111,
     "type": "Lava dome",
-    "vei": "",
+    "vei": 1,
     "agent": "G",
     "deaths": 1
   },
@@ -11740,7 +11740,7 @@
     "longitude": 98.392,
     "elevation": 2460,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 17
   },
@@ -11755,7 +11755,7 @@
     "longitude": 112.308,
     "elevation": 1731,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 7
   },
@@ -11785,7 +11785,7 @@
     "longitude": -155.292,
     "elevation": 1222,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11800,7 +11800,7 @@
     "longitude": -24.35,
     "elevation": 2829,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11815,7 +11815,7 @@
     "longitude": 127.325,
     "elevation": 1715,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 1
   },
@@ -11830,7 +11830,7 @@
     "longitude": 98.392,
     "elevation": 2460,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11845,7 +11845,7 @@
     "longitude": -72.614,
     "elevation": 2003,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11860,7 +11860,7 @@
     "longitude": 125.48,
     "elevation": 1784,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11890,7 +11890,7 @@
     "longitude": 98.392,
     "elevation": 2460,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "M",
     "deaths": 1
   },
@@ -11905,7 +11905,7 @@
     "longitude": 176.5,
     "elevation": 1111,
     "type": "Lava dome",
-    "vei": "",
+    "vei": 1,
     "agent": "I",
     "deaths": 1
   },
@@ -11920,7 +11920,7 @@
     "longitude": 98.392,
     "elevation": 2460,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 1
   },
@@ -11935,7 +11935,7 @@
     "longitude": 98.392,
     "elevation": 2460,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 7
   },
@@ -11950,7 +11950,7 @@
     "longitude": -110.67,
     "elevation": 2805,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 1
   },
@@ -11965,7 +11965,7 @@
     "longitude": 116.47,
     "elevation": 3726,
     "type": "Stratovolcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": ""
   },
@@ -11980,7 +11980,7 @@
     "longitude": 131.1,
     "elevation": 1592,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "T",
     "deaths": ""
   },
@@ -12010,7 +12010,7 @@
     "longitude": 109.92,
     "elevation": 2565,
     "type": "Complex volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 8
   },
@@ -12025,7 +12025,7 @@
     "longitude": 14.139,
     "elevation": 458,
     "type": "Caldera",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 3
   },
@@ -12040,7 +12040,7 @@
     "longitude": 167.83,
     "elevation": 1496,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "T",
     "deaths": ""
   },
@@ -12055,7 +12055,7 @@
     "longitude": -155.292,
     "elevation": 1222,
     "type": "Shield volcano",
-    "vei": "",
+    "vei": 1,
     "agent": "",
     "deaths": 1
   }
