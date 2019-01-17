@@ -14,7 +14,7 @@ public class VolcanoAnalyzer {
 
     public void loadVolcanos(Optional<String> pathOpt) throws IOException, URISyntaxException {
         try{
-            String path = pathOpt.isPresent() ? pathOpt.get() : "volcano.json";
+            String path = pathOpt.orElse("volcano.json");
             URL url = this.getClass().getClassLoader().getResource(path);
             String jsonString = new String(Files.readAllBytes(Paths.get(url.toURI())));
             ObjectMapper objectMapper = new ObjectMapper();
