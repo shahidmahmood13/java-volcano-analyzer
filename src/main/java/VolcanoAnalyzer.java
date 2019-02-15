@@ -12,7 +12,7 @@ import com.fasterxml.jackson.databind.type.TypeFactory;
 public class VolcanoAnalyzer {
     private List<Volcano> volcanos;
 
-    public void loadVolcanos(Optional<String> pathOpt) throws IOException, URISyntaxException {
+    public void loadVolcanoes(Optional<String> pathOpt) throws IOException, URISyntaxException {
         try{
             String path = pathOpt.orElse("volcano.json");
             URL url = this.getClass().getClassLoader().getResource(path);
@@ -25,7 +25,7 @@ public class VolcanoAnalyzer {
         }
     }
 
-    public Integer numVolcanos(){
+    public Integer numbVolcanoes(){
         return volcanos.size();
     }
 

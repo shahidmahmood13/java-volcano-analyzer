@@ -24,10 +24,10 @@ public class VolcanoAnalyzerTests {
         //Setup
         Integer expected = 804;
         VolcanoAnalyzer classUnderTest = new VolcanoAnalyzer();
-        classUnderTest.loadVolcanos(Optional.empty());
+        classUnderTest.loadVolcanoes(Optional.empty());
 
         //Execute
-        Integer actual = classUnderTest.numVolcanos();
+        Integer actual = classUnderTest.numbVolcanoes();
 
         //Assert
         Assert.assertEquals("should have 804 volcanoes", expected, actual);
