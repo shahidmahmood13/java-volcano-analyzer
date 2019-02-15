@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="VolcanoAnalyzerTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-01-16T04:41:25" hostname="gJeffLent.local" time="0.233">
-  <properties/>
-  <testcase name="volcanoExists" classname="VolcanoAnalyzerTests" time="0.001"/>
-  <testcase name="volcanoListIsLoaded" classname="VolcanoAnalyzerTests" time="0.232"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
