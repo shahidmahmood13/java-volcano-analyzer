@@ -1,7 +1,3 @@
-import com.fasterxml.jackson.annotation.JsonFormat;
-
-import javax.xml.bind.annotation.XmlElement;
-
 public class Volcano {
     private Integer Year;
     private String Tsu;
