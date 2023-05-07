@@ -10,6 +10,8 @@ import java.util.Optional;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+import java.util.Collections;
+
 
 import javax.xml.bind.ValidationEvent;
 
@@ -18,7 +20,7 @@ import com.fasterxml.jackson.databind.type.TypeFactory;
 
 public class VolcanoAnalyzer {
     private static final double Double = 0;
-    private List<Volcano> volcanos;
+    private static List<Volcano> volcanos;
 
     public void loadVolcanoes(Optional<String> pathOpt) throws IOException, URISyntaxException {
         try{
@@ -54,8 +56,12 @@ public String[] highVEI() {
 }
 
 // public Volcano mostDeadly(){
+ 
 
-//     return volcanos.stream().max(Comparator.comparing(Volcano:: getDEATHS)).orElse(null);
+//     // return volcanos.stream().max(Comparator.comparing(Volcano :: getDEATHS)).orElse(null);
+// //   return  volcanos.stream().reduce((obj1, obj2) -> \.getDEATHS() > obj2.getDEATHS() ? obj1 : obj2)
+// //   .orElse(null);
+//   return  Collections.max(volcanos, Comparator.comparing( Volcano::getDEATHS));
 
 // }
 
@@ -69,12 +75,12 @@ float value= volcanos.stream().filter(v-> v.getTsu().equals("tsu")).count();
 
 }
 
-// public String  mostCommonType(){
+public String  mostCommonType(){
   
-//  volcanos.stream().collect(Collectors.groupingBy(Volcano :: getType, Collectors.counting())); 
+ volcanos.stream().collect(Collectors.groupingBy(Volcano :: getType, Collectors.counting())); 
 
-// return null; 
-// }
+return null; 
+}
 
 public Long  eruptionsByCountry(String Country){
  
@@ -100,13 +106,33 @@ public Double percentNorth() {
 }
 
 public String[] manyFilters() {
- String [] str = volcanos.stream().filter(v-> v.getYear() > 1800 && v.getTsu().equalsIgnoreCase("")
-  && v.getLatitude() > 0 && v.getVEI() = 5).map(Volcano :: getName).toArray(String:: new);
-  return str;
+
+  return volcanos.stream().filter(v-> v.getYear() > 1800)
+  .filter( v-> v.getTsu().equals(""))
+  .filter( v-> v.getLatitude() < 0)
+  .filter(v-> v.getVEI() == 5).map( Volcano :: getName).toArray(String[]:: new);
+
+
+}
+
+public String[] loadVolcanoes(int i) {
+    return volcanos.stream().filter(v-> v.getElevation() > i).map( Volcano :: getName).toArray(String[]:: new);
+}
+
+public String[] topAgentsOfDeath() {
+    return null;
 } 
 
 
+                          
 
+
+// public static void main(String[] args) {
+//     // List<Volcano> volcanos;
+//     Volcano vol= volcanos.stream().max(Comparator.comparing( Volcano :: getDEATHS)).orElse(null);
+     
+//     System.out.println(vol);
+// }
 
 
 }
