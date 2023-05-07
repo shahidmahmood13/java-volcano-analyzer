@@ -5,14 +5,19 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
+import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+
+import javax.xml.bind.ValidationEvent;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.type.TypeFactory;
 
 public class VolcanoAnalyzer {
+    private static final double Double = 0;
     private List<Volcano> volcanos;
 
     public void loadVolcanoes(Optional<String> pathOpt) throws IOException, URISyntaxException {
@@ -58,16 +63,51 @@ public String[] highVEI() {
 public  float  causedTsunami(){
 
 float value= volcanos.stream().filter(v-> v.getTsu().equals("tsu")).count();
+// System.out.println(value);
  return  value / volcanos.size()*100;
+ 
 
 }
 
-public  String mostCommonType(){
-    return null;
+// public String  mostCommonType(){
+  
+//  volcanos.stream().collect(Collectors.groupingBy(Volcano :: getType, Collectors.counting())); 
 
+// return null; 
+// }
 
-
+public Long  eruptionsByCountry(String Country){
+ 
+    return volcanos.stream().filter( v-> v.getCountry().equalsIgnoreCase(Country)).count();
 }
+
+
+
+public Double averageElevation(){
+
+    return volcanos.stream().mapToDouble(Volcano :: getElevation).average().orElse(Double);
+}
+
+
+public String[] volcanoTypes() {
+    return volcanos.stream().map( Volcano :: getType).distinct().toArray(String[]:: new); 
+}
+
+public Double percentNorth() {
+ double value =  volcanos.stream().filter(v-> v.getLatitude() > 0).count();
+
+ return  value / volcanos.size()*100; 
+}
+
+public String[] manyFilters() {
+ String [] str = volcanos.stream().filter(v-> v.getYear() > 1800 && v.getTsu().equalsIgnoreCase("")
+  && v.getLatitude() > 0 && v.getVEI() = 5).map(Volcano :: getName).toArray(String:: new);
+  return str;
+} 
+
+
+
+
 
 }
 
