@@ -46,7 +46,7 @@ public class VolcanoAnalyzerTests {
         //Teardown
     }
 
-    // @Test
+    @Test
     public void eruptedInEighties() {
         //Setup
         Integer expected = 40;
@@ -60,20 +60,20 @@ public class VolcanoAnalyzerTests {
         //Teardown
     }
 
-    // @Test
-    // public void highVEI() {
-    //     //Setup
-    //     String[] expected = { "Macauley Island", "Kikai", "Masaya", "Pago", "Taal", "Pinatubo", "Long Island", "Black Peak", "St. Helens", "Veniaminof", "Aniakchak", "Santorini", "Taupo", "Pago", "Pinatubo", "Raoul Island", "Okmok", "Apoyeque", "Ambrym", "Bona-Churchill", "Taupo", "Ksudach", "Ilopango", "Rabaul", "Pago", "Bona-Churchill", "Dakataua", "Ceboruco", "Changbaishan", "Quilotoa", "Kuwae", "Bardarbunga", "Huaynaputina", "Long Island", "Tambora", "Krakatau", "Santa Maria", "Novarupta", "Pinatubo" };
+    @Test
+    public void highVEI() {
+        //Setup
+        String[] expected = { "Macauley Island", "Kikai", "Masaya", "Pago", "Taal", "Pinatubo", "Long Island", "Black Peak", "St. Helens", "Veniaminof", "Aniakchak", "Santorini", "Taupo", "Pago", "Pinatubo", "Raoul Island", "Okmok", "Apoyeque", "Ambrym", "Bona-Churchill", "Taupo", "Ksudach", "Ilopango", "Rabaul", "Pago", "Bona-Churchill", "Dakataua", "Ceboruco", "Changbaishan", "Quilotoa", "Kuwae", "Bardarbunga", "Huaynaputina", "Long Island", "Tambora", "Krakatau", "Santa Maria", "Novarupta", "Pinatubo" };
 
-    //     //Execute
-    //     String[] actual = va.highVEI();
+        //Execute
+        String[] actual = va.highVEI();
 
-    //     //Assert
-    //     assertEquals( expected.length, actual.length, "should have 39 volcanoes");
-    //     assertArrayEquals(expected, actual, "should have the correct volcanoes");
+        //Assert
+        assertEquals( expected.length, actual.length, "should have 39 volcanoes");
+        assertArrayEquals(expected, actual, "should have the correct volcanoes");
 
-    //     //Teardown
-    // }
+        //Teardown
+    }
 
     // @Test
     // public void mostDeadly() {
@@ -97,7 +97,7 @@ public class VolcanoAnalyzerTests {
     //     Volcano actual = va.mostDeadly();
 
     //     //Assert
-    //     assertEquals( expected.getYear(), actual.getYear(), "should have correct year",);
+    //     assertEquals( expected.getYear(), actual.getYear(), "should have correct year");
     //     assertEquals( expected.getTsu(), actual.getTsu(), "should have correct Tsu");
     //     assertEquals(expected.getEQ(), actual.getEQ(), "should have correct EQ" );
     //     assertEquals( expected.getName(), actual.getName(),"should have correct Name" );
@@ -113,33 +113,33 @@ public class VolcanoAnalyzerTests {
     //     //Teardown
     // }
 
-    // @Test
-    // public void causedTsunami() {
-    //     //Setup
-    //     double expected = 17;
+    @Test
+    public void causedTsunami() {
+        //Setup
+        double expected = 17;
 
-    //     //Execute
-    //     double actual = va.causedTsunami();
+        //Execute
+        double actual = va.causedTsunami();
 
-    //     //Assert
-    //     assertEquals( expected, actual, .1, "should be about 17.0 percent");
+        //Assert
+        assertEquals( expected, actual, .1, "should be about 17.0 percent");
 
-    //     //Teardown
-    // }
+        //Teardown
+    }
 
-    // @Test
-    // public void mostCommonType() {
-    //     //Setup
-    //     String expected = "Stratovolcano";
+    @Test
+    public void mostCommonType() {
+        //Setup
+        String expected = "Stratovolcano";
 
-    //     //Execute
-    //     String actual = va.mostCommonType();
+        //Execute
+        String actual = va.mostCommonType();
 
-    //     //Assert
-    //     assertEquals( expected, actual, "should be Stratovolcano");
+        //Assert
+        assertEquals( expected, actual, "should be Stratovolcano");
 
-    //     //Teardown
-    // }
+        //Teardown
+    }
 
     // @Test
     // public void eruptionsByCountry() {

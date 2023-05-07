@@ -3,9 +3,11 @@ import java.net.URISyntaxException;
 import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.type.TypeFactory;
@@ -35,17 +37,36 @@ public class VolcanoAnalyzer {
      public List<Volcano>   eruptedInEighties() {
         
         return volcanos.stream()
-    .filter(v -> v.getYear() >= 1980 && v.getYear() < 1990 )
+    .filter(v -> v.getYear()  >= 1980 && v.getYear() < 1990 )
     .collect(Collectors.toList());
   
 } 
 
-// public String[] highVEI() {
+public String[] highVEI() {
 
-//     return volcanos.stream().filter(v-> v.getVEI() <= 6).collect(Collectors.toList());
+    return volcanos.stream().filter(v-> v.getVEI() >=6).map(Volcano :: getName).toArray(String[]:: new);
+
+}
+
+// public Volcano mostDeadly(){
+
+//     return volcanos.stream().max(Comparator.comparing(Volcano:: getDEATHS)).orElse(null);
 
 // }
-// }
+
+
+public  float  causedTsunami(){
+
+float value= volcanos.stream().filter(v-> v.getTsu().equals("tsu")).count();
+ return  value / volcanos.size()*100;
+
+}
+
+public  String mostCommonType(){
+
+    
+
+}
 
 }
 
