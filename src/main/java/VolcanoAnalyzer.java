@@ -63,8 +63,9 @@ float value= volcanos.stream().filter(v-> v.getTsu().equals("tsu")).count();
 }
 
 public  String mostCommonType(){
+    return null;
 
-    
+
 
 }
 
