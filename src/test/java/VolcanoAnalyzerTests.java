@@ -47,18 +47,18 @@ public class VolcanoAnalyzerTests {
     }
 
     // @Test
-    // public void eruptedInEighties() {
-    //     //Setup
-    //     Integer expected = 40;
+    public void eruptedInEighties() {
+        //Setup
+        Integer expected = 40;
 
-    //     //Execute
-    //     Integer actual = va.eruptedInEighties().size();
+        //Execute
+        Integer actual = va.eruptedInEighties().size();
 
-    //     //Assert
-    //     assertEquals(expected, actual, "should have 40 volcanoes");
+        //Assert
+        assertEquals(expected, actual, "should have 40 volcanoes");
 
-    //     //Teardown
-    // }
+        //Teardown
+    }
 
     // @Test
     // public void highVEI() {
