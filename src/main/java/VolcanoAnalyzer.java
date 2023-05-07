@@ -55,15 +55,15 @@ public String[] highVEI() {
 
 }
 
-// public Volcano mostDeadly(){
+public Volcano mostDeadly(){
  
 
-//     // return volcanos.stream().max(Comparator.comparing(Volcano :: getDEATHS)).orElse(null);
+    return volcanos.stream().max(Comparator.comparing(Volcano :: getDEATHS)).map(Volcano::getDEATHS);
 // //   return  volcanos.stream().reduce((obj1, obj2) -> \.getDEATHS() > obj2.getDEATHS() ? obj1 : obj2)
 // //   .orElse(null);
 //   return  Collections.max(volcanos, Comparator.comparing( Volcano::getDEATHS));
 
-// }
+}
 
 
 public  float  causedTsunami(){
@@ -72,15 +72,23 @@ float value= volcanos.stream().filter(v-> v.getTsu().equals("tsu")).count();
 // System.out.println(value);
  return  value / volcanos.size()*100;
  
-
 }
 
 public String  mostCommonType(){
   
- volcanos.stream().collect(Collectors.groupingBy(Volcano :: getType, Collectors.counting())); 
+//  volcanos.stream().collect(Collectors.groupingBy(Volcano :: getType, Collectors.counting())); 
+// return volcanos.stream().max(Comparator.comparing(Volcano :: getType )).toString();
+return  volcanos.stream()
+.collect(Collectors.groupingBy(Volcano::getType, Collectors.counting()))
+.entrySet().stream()
+.max(Map.Entry.comparingByValue())
+.map(Map.Entry::getKey)
+.orElse(null);
 
-return null; 
+ 
 }
+
+
 
 public Long  eruptionsByCountry(String Country){
  
